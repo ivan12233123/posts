@@ -2,7 +2,7 @@
 <?php
 require_once "vendor/autoload.php";
 //require_once "App/db/posts/index.php";
-
+echo "jehhgdh"
 $route = $_GET['route'];
 switch($route)
 {

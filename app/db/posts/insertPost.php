@@ -14,7 +14,7 @@ if (count($_POST) > 0) {
     $fileError = $_FILES['photo']['error'];
 
     $fileExt = strtolower(end(explode('.', $fileName)));
-
+echo "scscsdcsdc";
 
     $fileName = explode('.', $fileName)[0];
 
